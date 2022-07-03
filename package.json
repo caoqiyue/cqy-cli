@@ -1,0 +1,16 @@
+{
+  "name": "cqy-cli",
+  "version": "1.0.0",
+  "description": "cqy cli",
+  "bin": {
+    "cqy-cli": "core/bin/index.js"
+  },
+  "author": "cqy",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.3.0",
+    "inquirer": "^7.3.3",
+    "npmlog": "^6.0.2",
+    "semver": "^7.3.7"
+  }
+}
